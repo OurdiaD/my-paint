@@ -1,0 +1,12 @@
+body{
+    width: 900px;
+    background-color: #888;
+    margin: auto;
+}
+button{
+display: inline-block;
+}
+canvas{
+    margin: auto;
+    display: block;
+}
